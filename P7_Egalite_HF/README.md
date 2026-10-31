@@ -24,7 +24,13 @@ Une entreprise de 256 salariés doit publier son index d'égalité professionnel
 
 | Fichier | Contenu |
 |---|---|
+| [Workflow KNIME](workflow.knime) | Workflow complet, réutilisable |
+| [Schéma du workflow](workflow.svg) | Vue d'ensemble du workflow |
 | [Présentation](Abderrahmane_jordan_3_support_presentation_062025.pptx) | Méthodologie, résultats et recommandations |
+
+## Aperçu
+
+![Workflow KNIME](workflow.svg)
 
 ## Outils
 
