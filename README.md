@@ -23,7 +23,7 @@ Ce portfolio rassemble les projets réalisés pendant ma formation Data Analyst 
 |---|---|---|---|
 | 1 | [Analyse des ventes e-commerce](P1_Ventes_ecommerce) | E-commerce | Excel |
 | 2 | [Création et requêtage d'une base SQL](P2_Requetage_SQL) | Assurance | MySQL |
-| 3 | [Étude de santé publique](P3_Sante_publique) | Santé | Python · R |
+| 3 | [Étude de santé publique](P3_Sante_publique) | Santé | Python |
 | 4 | [Base de données immobilière](P4_BDD_Immobiliere) | Immobilier | SQL |
 | 5 | [Optimisation des stocks et des ventes](P5_Boutique) | Commerce | Python |
 | 6 | [Tableau de bord Power BI multi-niveaux](P6_Dashboard_PowerBI) | Gestion de projet | Power BI · DAX |
