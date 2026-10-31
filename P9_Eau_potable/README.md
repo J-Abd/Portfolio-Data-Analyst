@@ -18,7 +18,7 @@ L'ONG Drinking Water For All (DWFA) œuvre pour l'accès à l'eau potable dans l
 | Fichier | Contenu |
 |---|---|
 | [Tableau de bord](Projet_10_Tableauvffinal.twb) | Classeur Tableau |
-| [Présentation](Projet-n10-Tableau-de-bord-danalyse-dacces-a-leau-potable.pptx) | Contexte, démarche et démonstration |
+| [Présentation](abderrahmane_jordan_1_presentation_072025.pptx) | Contexte, démarche et démonstration |
 | Maquettes : [1](abderrahmane_jordan_mockup_1.jpg) · [2](abderrahmane_jordan_mockup_2.jpg) · [3](abderrahmane_jordan_mockup_3.jpg) | Maquettes du tableau de bord |
 
 ## Aperçu
